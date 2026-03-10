@@ -64,6 +64,7 @@ These categories represent increasing levels of reasoning complexity, from perce
 
 
 
+
 <p align="center">
   <img src="https://github.com/user-attachments/assets/e3e6ce5d-20a9-4f8d-8226-eca7d5815c62" width="800">
 </p>
@@ -71,6 +72,11 @@ These categories represent increasing levels of reasoning complexity, from perce
 <p align="center">
   <em> Five-Level Data Taxonomy by Reasoning Complexity </em>
 </p>
+
+
+The dataset is publicly available on Hugging Face:
+
+https://huggingface.co/datasets/ryan-aiforge/reactionqa
 
 ---
 
