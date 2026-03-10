@@ -85,7 +85,7 @@ https://huggingface.co/datasets/ryan-aiforge/reactionqa
 
 ## Installation
 
-git clone https://github.com/xxx/BioRxnReasoner.git
+git clone https://github.com/cs-ai4sci/BioRxnReasoner.git
 
 cd BioRxnReasoner
 
