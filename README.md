@@ -63,14 +63,15 @@ The benchmark evaluates models across five reasoning categories:
 
 These categories represent increasing levels of reasoning complexity, from perception-level recognition to multi-step reasoning and validation.
 
+<img width="2242" height="1126" alt="fig_dataD" src="https://github.com/user-attachments/assets/e3e6ce5d-20a9-4f8d-8226-eca7d5815c62" />
+
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/d7bff12b-38a2-4d7c-8a68-6664df5d6a67" width="600">
+  <img src="https://github.com/user-attachments/assets/e3e6ce5d-20a9-4f8d-8226-eca7d5815c62" width="600">
 </p>
 
 <p align="center">
-  <em> Five-Level Data Taxonomy by Reasoning Complexity</em>
+  <em> Five-Level Data Taxonomy by Reasoning Complexity </em>
 </p>
-
 
 ---
 
