@@ -80,6 +80,40 @@ https://huggingface.co/datasets/ryan-aiforge/reactionqa
 
 ---
 
+
+# 🚀 Usage  
+
+## Installation
+
+git clone https://github.com/xxx/BioRxnReasoner.git
+
+cd BioRxnReasoner
+
+pip install -r requirements.txt
+
+
+##  Example Usage
+
+```bash
+cd Reaction2Struct
+
+python simpleJson.py \
+  --input path/to/result.json \
+  --out_dir output/
+
+
+cd BioRxnReasoner
+
+export OPENAI_API_KEY="your_api_key" \
+export OPENAI_BASE_URL="your_api_endpoint" \
+export OPENAI_MODEL="gpt-4o" \
+
+python -m decompose
+
+```
+
+---
+
 # 🙏 Acknowledgements
 
 The **Reaction2Struct** module in this project is adapted from the open-source project **OpenChemIE**.
