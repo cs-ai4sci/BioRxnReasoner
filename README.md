@@ -1,7 +1,6 @@
 # BioRxnReasoner
 
 ![Python](https://img.shields.io/badge/Python-3.9+-blue.svg)
-![License](https://img.shields.io/badge/License-MIT-green.svg)
 ![Status](https://img.shields.io/badge/Status-Research-orange)
 ![Task](https://img.shields.io/badge/Task-Reaction%20Diagram%20Reasoning-purple)
 ![Framework](https://img.shields.io/badge/Framework-LLM%20%2B%20MLLM-red)
@@ -19,7 +18,7 @@ BioRxnReasoner addresses this challenge through a **multi-stage, multi-agent arc
 
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/a0466352-09cf-414c-a658-275f3c844dd0" width="600">
+  <img src="https://github.com/user-attachments/assets/a0466352-09cf-414c-a658-275f3c844dd0" width="800">
 </p>
 
 <p align="center">
@@ -63,10 +62,10 @@ The benchmark evaluates models across five reasoning categories:
 
 These categories represent increasing levels of reasoning complexity, from perception-level recognition to multi-step reasoning and validation.
 
-<img width="2242" height="1126" alt="fig_dataD" src="https://github.com/user-attachments/assets/e3e6ce5d-20a9-4f8d-8226-eca7d5815c62" />
+
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/e3e6ce5d-20a9-4f8d-8226-eca7d5815c62" width="600">
+  <img src="https://github.com/user-attachments/assets/e3e6ce5d-20a9-4f8d-8226-eca7d5815c62" width="800">
 </p>
 
 <p align="center">
