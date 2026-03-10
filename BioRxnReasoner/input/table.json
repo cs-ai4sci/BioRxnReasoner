@@ -1,0 +1,62 @@
+[
+  {
+    "reactant_pics": "./output/2025-09-16 19.52.10/reactant_cropped_72_89_243_229.png",
+    "reactant_smiles": "CN[C@H](C(=O)N[C@H](CO)Cc1c[nH]c2ccccc12)C(C)C",
+    "reactant_labels": "['NMVT']",
+    "reactant_label_pics": "./output/2025-09-16 19.52.10/label_cropped_108_330_80_31.png",
+    "product_pics": "./output/2025-09-16 19.52.10/product_cropped_409_98_244_229.png",
+    "product_smiles": "CC(C)[C@H]1C(=O)N[C@H](CO)Cc2c[nH]c3cccc(c23)N1C",
+    "product_labels": "['indolactam V (1)']",
+    "product_label_pics": "./output/2025-09-16 19.52.10/label_cropped_407_329_187_33.png",
+    "condition": "TleBIHinD",
+    "condition_pics": "./output/2025-09-16 19.52.10/condition_cropped_262_201_116_29.png"
+  },
+  {
+    "reactant_pics": "./output/2025-09-16 19.52.10/reactant_cropped_663_41_272_279.png",
+    "reactant_smiles": "CC.CN[C@@H](Cc1ccccc1)C(=O)N[C@H](CO)Cc1c[nH]c2ccccc12",
+    "reactant_labels": "['NMFT']",
+    "reactant_label_pics": "./output/2025-09-16 19.52.10/label_cropped_735_328_76_30.png",
+    "product_pics": "./output/2025-09-16 19.52.10/product_cropped_1001_48_274_281.png",
+    "product_smiles": "CN1c2cccc3[nH]cc(c23)C[C@@H](CO)NC(=O)[C@@H]1Cc1ccccc1",
+    "product_labels": "['indolactam 4']",
+    "product_label_pics": "./output/2025-09-16 19.52.10/label_cropped_1029_332_150_27.png",
+    "condition": "HinD",
+    "condition_pics": "./output/2025-09-16 19.52.10/condition_cropped_909_201_63_29.png"
+  },
+  {
+    "reactant_pics": "./output/2025-09-16 19.52.10/reactant_cropped_186_398_241_220.png",
+    "reactant_smiles": "CC.[2*][14CH3]([2*])C(=O)NC(CC1=CNC2=C1C=CC=C2)[14CH3]O",
+    "reactant_labels": "['5 Ri=NHz', '6 Rz-OCHa', '7 Rz=OH', '11 Ri=OCH3', '12 R-OH'];['Rz-iPr', 'Rz-iPr', 'Rz-iPr', 'Rz-Benzyl', 'Rz-Benzyl']",
+    "reactant_label_pics": "./output/2025-09-16 19.52.10/label_cropped_144_627_147_140.png;./output/2025-09-16 19.52.10/label_cropped_300_627_121_138.png",
+    "product_pics": "./output/2025-09-16 19.52.10/product_cropped_547_416_294_205.png;./output/2025-09-16 19.52.10/product_cropped_891_405_244_222.png",
+    "product_smiles": "[2*]C([2*])C(=O)N[C@]1([H])CO[C@]2([H])Nc3ccccc3[C@]2(O)C1;[2*][C@H](O)C(=O)N[C@H](CO)Cc1c[nH]c2ccccc12",
+    "product_labels": "['8 Rz-NHz', '9 Rz=OCHa', '10 Ri=OH', '17 Ri-OCH', '18 R,=OH'];['7 R2-iPr', '12 Rz-Benzyl']",
+    "product_label_pics": "./output/2025-09-16 19.52.10/label_cropped_527_630_145_141.png;./output/2025-09-16 19.52.10/label_cropped_898_657_158_61.png",
+    "condition": "",
+    "condition_pics": ""
+  },
+  {
+    "reactant_pics": "./output/2025-09-16 19.52.10/reactant_cropped_99_800_244_200.png",
+    "reactant_smiles": "*[C@H](NC)C(=O)N[C@H](CO)Cc1csc2ccccc12.[I-]",
+    "reactant_labels": "['13 R= iPr', '14 R-Benzyl']",
+    "reactant_label_pics": "./output/2025-09-16 19.52.10/label_cropped_112_1041_143_59.png",
+    "product_pics": "./output/2025-09-16 19.52.10/product_cropped_418_803_246_198.png;./output/2025-09-16 19.52.10/product_cropped_687_802_243_224.png",
+    "product_smiles": "*[C@H](N)C(=O)N[C@H](CO)Cc1csc2ccccc12;*[C@H](NC)C(=O)N[C@H](CO)Cc1cn(C)c2ccccc12.[I-]",
+    "product_labels": "['19 R-iPr', '20 R-Benzyl'];['15 R-iPr', '16 R-Benzyl']",
+    "product_label_pics": "./output/2025-09-16 19.52.10/label_cropped_431_1041_151_59.png;./output/2025-09-16 19.52.10/label_cropped_699_1045_146_58.png",
+    "condition": "HinD",
+    "condition_pics": "./output/2025-09-16 19.52.10/condition_cropped_329_897_60_27.png"
+  },
+  {
+    "reactant_pics": "./output/2025-09-16 19.52.10/reactant_cropped_687_802_243_224.png",
+    "reactant_smiles": "*[C@H](NC)C(=O)N[C@H](CO)Cc1cn(C)c2ccccc12.[I-]",
+    "reactant_labels": "['15 R-iPr', '16 R-Benzyl']",
+    "reactant_label_pics": "./output/2025-09-16 19.52.10/label_cropped_699_1045_146_58.png",
+    "product_pics": "./output/2025-09-16 19.52.10/product_cropped_1008_804_242_250.png",
+    "product_smiles": "*[C@H](NC)C(=O)N[C@H](CO)Cc1cn(CO)c2ccccc12",
+    "product_labels": "['21 R-iPr', '22 R-Benzyl']",
+    "product_label_pics": "./output/2025-09-16 19.52.10/label_cropped_1027_1047_149_57.png",
+    "condition": "HinD",
+    "condition_pics": "./output/2025-09-16 19.52.10/condition_cropped_919_895_61_29.png"
+  }
+]
